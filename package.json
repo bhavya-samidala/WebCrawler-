@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler-",
+  "version": "1.0.0",
+  "description": "A webcrawler which reports which pages link to the other",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavya-samidala/WebCrawler-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavya-samidala/WebCrawler-/issues"
+  },
+  "homepage": "https://github.com/bhavya-samidala/WebCrawler-#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
